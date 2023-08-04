@@ -6,4 +6,4 @@ I'm RCubed6, a student based in SF Bay Area interested in full stack and data an
 * 🎃 [Pmpkin](https://pmpkin.app): Reduces the friction related to organizing and joining hangouts. 
 * 🚀 [Doceo](https://doceo.team): Start and join student-led projects.
 
-I also like chess. -- [Nueva Chess Club](https://studentsocial.org) | *Not yet available*
+I also like chess. -- [Nueva Chess Club](https://studentsocial.org)
